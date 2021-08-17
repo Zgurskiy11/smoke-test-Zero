@@ -15,7 +15,7 @@ public class AccountActivityPage {
     }
 
 
-    @FindBy(id = "aa_accountId")
+    @FindBy(id = "aa_accountId")//dfvdf
     public WebElement showTransactionsAccount;
 
     @FindBy (xpath = "//thead/tr/th")
